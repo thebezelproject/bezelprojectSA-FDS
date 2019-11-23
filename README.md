@@ -9,4 +9,4 @@ The bezel packs are used in a RetroPie build for providing game bezels.
 
 The graphics in this repository follow the following design.
 
-![Sample bezel](https://github.com/thebezelproject/bezelprojectSA-FDS/blob/master/retroarch/overlay/GameBezels/Famicom/Backgammon%20(Japan).png?raw=true)
+![Sample bezel](https://github.com/thebezelproject/bezelprojectSA-FDS/blob/master/retroarch/overlay/GameBezels/FDS/Backgammon%20(Japan).png?raw=true)
